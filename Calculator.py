@@ -27,11 +27,3 @@ elif method == "*":
     print("The product of {0} and {1} is {2}" .format(n1, n2, sum))
 else:
     print("That's not a number silly")
-
-# lists
-string_list = ["Hello", "Hi", "Howdy"]
-int_list = [1,2,3]
-mixed_list = ["hi", 2.345, 3]
-
-# dictionary
-my_dict = {"Name": "Tristan", "Age":"26", "Location":"Santa Clarita"}
