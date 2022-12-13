@@ -1,4 +1,5 @@
-# Beginning Shit
+# Author: Tristan Miller
+# Program start-up
 print("Welcome To the Calculator!\n")
 print("What would you like to use")
 method = input("+, -, /, *: ")
